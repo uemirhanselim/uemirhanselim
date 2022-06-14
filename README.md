@@ -3,7 +3,7 @@ Hi there! 👋
 
 I am a mobile developer
 
-🌱 I’m currently working with Flutter
+🌱 I’m currently developing mobile apps with Flutter and learning Kotlin for Native developmnet
 
 💬 Ask me about Flutter
 
