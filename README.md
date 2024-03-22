@@ -23,7 +23,5 @@ I am a mobile developer,
 ---
 [![](https://visitcount.itsvg.in/api?id=uemirhanselim&icon=5&color=6)](https://visitcount.itsvg.in)
 
-google-site-verification: google535f047506157cc1.html
-
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
