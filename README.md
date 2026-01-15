@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi there! 👋
 
-I am a mobile developer,
+I am a mobile developer, I am currently working on a private repository thats why my commit history may look empty :)
 
 🌱 I’m currently developing mobile apps with Flutter. Reach me for work!!
 
